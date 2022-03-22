@@ -1,0 +1,2 @@
+
+8a4314bb9dc0deccd8be5ce5739c65a2ffad5be2	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/portfinder/-/portfinder-1.0.28.tgz","integrity":"sha1-Z8RiKFK9U3TdHdkA93n1NGL6x3g=","time":1638861133361,"size":6523,"metadata":{"time":1638861130294,"url":"https://oss.npmmirror.com/portfinder/-/portfinder-1.0.28.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:35:20 GMT","etag":"\"8FF2B6BF8B120DFF7C8C79CE4EC2A7D4\"","last-modified":"Wed, 29 Jul 2020 10:50:53 GMT"}}}

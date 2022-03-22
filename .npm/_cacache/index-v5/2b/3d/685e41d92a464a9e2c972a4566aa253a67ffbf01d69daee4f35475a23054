@@ -1,0 +1,2 @@
+
+57770723ea8b7194d2bb79ac1c0b33c10382fb4c	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/watchpack/-/watchpack-1.7.5.tgz","integrity":"sha1-EmfmxV4Lm1vkTCAjrtVDeiwmxFM=","time":1638861117206,"size":6195,"metadata":{"time":1638861114437,"url":"https://oss.npmmirror.com/watchpack/-/watchpack-1.7.5.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:26:58 GMT","etag":"\"8FA1BF6756EF5C8AFAA8DC7BD700D700\"","last-modified":"Tue, 10 Nov 2020 06:19:03 GMT"}}}

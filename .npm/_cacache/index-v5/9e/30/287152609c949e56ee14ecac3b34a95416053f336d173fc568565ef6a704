@@ -1,0 +1,2 @@
+
+e2e3b422101527d8f66e4e00dd365c87606d900a	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/async/-/async-2.6.3.tgz","integrity":"sha1-1yYl4jRKNlbjo61Pp0n6gymdgv8=","time":1638861143663,"size":124143,"metadata":{"time":1638861115554,"url":"https://oss.npmmirror.com/async/-/async-2.6.3.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:37:53 GMT","etag":"\"D414C697D948519DF2A929DCA97C7073\"","last-modified":"Sun, 14 Jul 2019 23:30:59 GMT"}}}

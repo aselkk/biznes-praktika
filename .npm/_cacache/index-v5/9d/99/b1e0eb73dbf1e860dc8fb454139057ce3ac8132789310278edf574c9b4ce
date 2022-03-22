@@ -1,0 +1,2 @@
+
+221f4276b57de156e43f204b70cd986ce29e700b	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/entities/-/entities-2.2.0.tgz","integrity":"sha1-CY3JDruD2N/6CJ1VJWs1HTTE2lU=","time":1638861123144,"size":19521,"metadata":{"time":1638861117090,"url":"https://oss.npmmirror.com/entities/-/entities-2.2.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:35:19 GMT","etag":"\"12FAB1FE8855E7971F421FF059315BA3\"","last-modified":"Mon, 25 Jan 2021 00:41:49 GMT"}}}

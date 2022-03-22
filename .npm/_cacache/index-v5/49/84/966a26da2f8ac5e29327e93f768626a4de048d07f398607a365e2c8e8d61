@@ -1,0 +1,2 @@
+
+36b8147eca04f3a72221a116e4676d874ee37532	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/minipass/-/minipass-3.1.5.tgz","integrity":"sha1-cfYlGwozpJwBs8+X/3ftoDDf9zI=","time":1638861138043,"size":12448,"metadata":{"time":1638861134096,"url":"https://oss.npmmirror.com/minipass/-/minipass-3.1.5.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 19:27:05 GMT","etag":"\"E9822D01CC3CE1710E87698E166B9C94\"","last-modified":"Tue, 14 Sep 2021 19:36:54 GMT"}}}

@@ -1,0 +1,2 @@
+
+83b8769336ac1addd785feffc5adb96ed4636127	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/acorn-jsx/-/acorn-jsx-5.3.2.tgz","integrity":"sha1-ftW7VZCLOy8bxVxq8WU7rafweTc=","time":1638861189875,"size":7635,"metadata":{"time":1638861189147,"url":"https://oss.npmmirror.com/acorn-jsx/-/acorn-jsx-5.3.2.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:16:41 GMT","etag":"\"F3DA43A75D174D2021262164AA77170A\"","last-modified":"Fri, 09 Jul 2021 01:16:17 GMT"}}}

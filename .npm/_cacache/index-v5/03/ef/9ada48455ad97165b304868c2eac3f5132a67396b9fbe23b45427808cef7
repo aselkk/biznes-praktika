@@ -1,0 +1,2 @@
+
+ff332f634a07d0e2fc859650cef9b376cc89257c	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/sass-graph/-/sass-graph-2.2.5.tgz","integrity":"sha1-qYHIdEa4MZ2W3OBnHkh4eb0kwug=","time":1638861191110,"size":5144,"metadata":{"time":1638861190973,"url":"https://oss.npmmirror.com/sass-graph/-/sass-graph-2.2.5.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Tue, 07 Dec 2021 05:42:59 GMT","etag":"\"372366C30D1958D768AA87B33BDECAB1\"","last-modified":"Mon, 04 May 2020 12:41:24 GMT"}}}

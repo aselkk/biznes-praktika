@@ -1,0 +1,2 @@
+
+08025899bcce6de1624fed67bbc40459a66b635f	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/iconv-lite/-/iconv-lite-0.4.24.tgz","integrity":"sha1-ICK0sl+93CHS9SSXSkdKr+czkIs=","time":1638861135184,"size":185241,"metadata":{"time":1638861119067,"url":"https://oss.npmmirror.com/iconv-lite/-/iconv-lite-0.4.24.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:17:52 GMT","etag":"\"FD75D1BD67B550ECE627B2EF307D775D\"","last-modified":"Wed, 22 Aug 2018 20:23:24 GMT"}}}

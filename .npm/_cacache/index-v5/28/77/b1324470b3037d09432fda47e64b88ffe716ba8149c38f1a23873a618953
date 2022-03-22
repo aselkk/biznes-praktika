@@ -1,0 +1,2 @@
+
+771174e810558d36d3f80cc5438849516e9364ea	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/bytes/-/bytes-3.0.0.tgz","integrity":"sha1-0ygVQE1olpn4Wk6k+odV3ROpYEg=","time":1638861132103,"size":4145,"metadata":{"time":1638861126859,"url":"https://oss.npmmirror.com/bytes/-/bytes-3.0.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:01:58 GMT","etag":"\"F0B3D43685F689977BA2394E42FEA873\"","last-modified":"Thu, 31 Aug 2017 21:53:02 GMT"}}}

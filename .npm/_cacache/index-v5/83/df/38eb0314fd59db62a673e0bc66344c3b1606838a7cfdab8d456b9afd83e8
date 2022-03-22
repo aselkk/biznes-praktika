@@ -1,0 +1,2 @@
+
+56cb29bc4903ee8b9a89e98d4a183120bb470124	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/callsites/-/callsites-3.1.0.tgz","integrity":"sha1-s2MKvYlDQy9Us/BRkjjjPNffL3M=","time":1638861189622,"size":2433,"metadata":{"time":1638861189243,"url":"https://oss.npmmirror.com/callsites/-/callsites-3.1.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:35:21 GMT","etag":"\"37C0ADB1138C0E1D64AE2EAFC3BFEDDF\"","last-modified":"Sat, 06 Apr 2019 11:57:41 GMT"}}}

@@ -1,0 +1,2 @@
+
+325039fdbf91d442d7d5589bc2315624d1316db3	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/flatted/-/flatted-2.0.2.tgz","integrity":"sha1-RXWyHivO50NKqb5mL0t7X5wrUTg=","time":1638861190530,"size":5665,"metadata":{"time":1638861189585,"url":"https://oss.npmmirror.com/flatted/-/flatted-2.0.2.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:41:01 GMT","etag":"\"DB0B5CF7C700F5DC867916A7BFA7C548\"","last-modified":"Sun, 29 Mar 2020 08:38:19 GMT"}}}

@@ -1,0 +1,2 @@
+
+d1cc3f16afb76e91874adc5cd23063ce708541b9	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/spdy/-/spdy-4.0.2.tgz","integrity":"sha1-t09GYgOj7aRSwCSSuR+56EonZ3s=","time":1638861118975,"size":16563,"metadata":{"time":1638861113817,"url":"https://oss.npmmirror.com/spdy/-/spdy-4.0.2.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:01 GMT","etag":"\"72000EBE5752F35F94FFDB67DF0AD68B\"","last-modified":"Sat, 04 Apr 2020 03:21:04 GMT"}}}

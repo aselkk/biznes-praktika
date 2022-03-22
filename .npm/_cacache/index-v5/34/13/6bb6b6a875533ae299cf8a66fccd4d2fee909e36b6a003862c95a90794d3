@@ -1,0 +1,2 @@
+
+75a257f57b61aa96e87be6cd04db3926b477ed5a	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/domutils/-/domutils-1.7.0.tgz","integrity":"sha1-Vuo0HoNOBuZ0ivehyyXaZ+qfjCo=","time":1638861138774,"size":6513,"metadata":{"time":1638861130804,"url":"https://oss.npmmirror.com/domutils/-/domutils-1.7.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:16 GMT","etag":"\"203206924B20EA163BA3F7190F7476DA\"","last-modified":"Wed, 07 Feb 2018 22:23:15 GMT"}}}

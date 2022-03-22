@@ -1,0 +1,2 @@
+
+20b411ad507a7100806e726e35cc36cdf2a6a3c3	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/node-forge/-/node-forge-0.10.0.tgz","integrity":"sha1-Mt6ir7Ppkm8C7lzoeUkCaRpna/M=","time":1638861143699,"size":447414,"metadata":{"time":1638861113919,"url":"https://oss.npmmirror.com/node-forge/-/node-forge-0.10.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:35:22 GMT","etag":"\"675F82D7D6C2E5D681739611570680A0\"","last-modified":"Wed, 02 Sep 2020 02:07:14 GMT"}}}

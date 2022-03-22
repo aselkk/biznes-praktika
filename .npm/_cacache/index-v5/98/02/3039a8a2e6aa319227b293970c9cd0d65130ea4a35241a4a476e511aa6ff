@@ -1,0 +1,2 @@
+
+f4ee9fb60660fd95b1c74adde7036ca0c2f2ee9c	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/duplexify/-/duplexify-3.7.1.tgz","integrity":"sha1-Kk31MX9sz9kfhtb9JdjYoQO4gwk=","time":1638861123455,"size":5038,"metadata":{"time":1638861117948,"url":"https://oss.npmmirror.com/duplexify/-/duplexify-3.7.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:27:08 GMT","etag":"\"CEB01AD953DD6887B2907282DBCEEC9A\"","last-modified":"Mon, 04 Feb 2019 16:55:10 GMT"}}}

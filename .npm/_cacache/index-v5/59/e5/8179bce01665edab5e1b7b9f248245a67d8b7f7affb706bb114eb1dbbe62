@@ -1,0 +1,2 @@
+
+ccd7a31ab2db2013b0a755000ea0d84c4dc0abee	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/http-proxy/-/http-proxy-1.18.1.tgz","integrity":"sha1-QBVB8FNIhLv5UmAzTnL4juOXZUk=","time":1638861139586,"size":68346,"metadata":{"time":1638861129552,"url":"https://oss.npmmirror.com/http-proxy/-/http-proxy-1.18.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:27:08 GMT","etag":"\"869576D4AA34E210FC7249DCEBF4F736\"","last-modified":"Sun, 17 May 2020 21:27:50 GMT"}}}

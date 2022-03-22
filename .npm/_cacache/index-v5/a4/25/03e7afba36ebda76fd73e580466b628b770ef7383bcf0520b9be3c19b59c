@@ -1,0 +1,2 @@
+
+e0717080d909b1b2c804c30c04ee8b5f3faaccbd	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/thunky/-/thunky-1.1.0.tgz","integrity":"sha1-Wrr3FKlAXbBQRzK7zNLO3Z75U30=","time":1638861116277,"size":3117,"metadata":{"time":1638861114643,"url":"https://oss.npmmirror.com/thunky/-/thunky-1.1.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:00 GMT","etag":"\"B1EA9A3FDD857C52B6C862C639323079\"","last-modified":"Mon, 14 Oct 2019 08:54:49 GMT"}}}

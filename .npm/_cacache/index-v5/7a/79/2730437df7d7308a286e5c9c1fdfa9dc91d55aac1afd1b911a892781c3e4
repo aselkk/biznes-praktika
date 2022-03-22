@@ -1,0 +1,2 @@
+
+b1790e91f9f583262dba3ba59d9b955a21a872f9	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/fs-extra/-/fs-extra-7.0.1.tgz","integrity":"sha1-TxicRKoSO4lfcigE9V6iPq3DSOk=","time":1638861125573,"size":32085,"metadata":{"time":1638861121555,"url":"https://oss.npmmirror.com/fs-extra/-/fs-extra-7.0.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:27:08 GMT","etag":"\"A489D6784B0E21822735FC5F2DD3CADF\"","last-modified":"Wed, 07 Nov 2018 13:23:24 GMT"}}}

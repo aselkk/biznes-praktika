@@ -1,0 +1,2 @@
+
+1513cb494c18d23bcdb7c1761639cff6581a4a94	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/deep-is/-/deep-is-0.1.4.tgz","integrity":"sha1-pvLc5hL63S7x9Rm3NVHxfoUZmDE=","time":1638861190065,"size":3400,"metadata":{"time":1638861189122,"url":"https://oss.npmmirror.com/deep-is/-/deep-is-0.1.4.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:16:30 GMT","etag":"\"5AE2691701DAD1AEC2E6BC66A610FBBE\"","last-modified":"Sat, 04 Sep 2021 16:55:33 GMT"}}}

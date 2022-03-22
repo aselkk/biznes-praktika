@@ -1,0 +1,2 @@
+
+f76defd9caf1cb825f2056fbadc51601d8da2816	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/pify/-/pify-4.0.1.tgz","integrity":"sha1-SyzSXFDVmHNcUCkiJP2MbfQeMjE=","time":1638861132395,"size":3318,"metadata":{"time":1638861129010,"url":"https://oss.npmmirror.com/pify/-/pify-4.0.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:55:43 GMT","etag":"\"6997269CC2A8E70688E1971C7C879DF9\"","last-modified":"Mon, 22 Oct 2018 12:59:11 GMT"}}}

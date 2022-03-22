@@ -1,0 +1,2 @@
+
+1de30baa3c1e92bd602090f4844e317ab64d93ef	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/punycode/-/punycode-2.1.1.tgz","integrity":"sha1-tYsBCsQMIsVldhbI0sLALHv0eew=","time":1638861123189,"size":7270,"metadata":{"time":1638861118786,"url":"https://oss.npmmirror.com/punycode/-/punycode-2.1.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:02 GMT","etag":"\"189447403A7580274F318EB19AF7EA8C\"","last-modified":"Tue, 22 May 2018 02:46:57 GMT"}}}

@@ -1,0 +1,2 @@
+
+bb7577f53a78c8d02de0e1d665b1af230a033267	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/ip-regex/-/ip-regex-2.1.0.tgz","integrity":"sha1-+ni/XS5pE8kRzp+BnuUUa7bYROk=","time":1638861115331,"size":2157,"metadata":{"time":1638861113586,"url":"https://oss.npmmirror.com/ip-regex/-/ip-regex-2.1.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:16:25 GMT","etag":"\"ED4E912306F8DEAF47A3FBC2F515DB68\"","last-modified":"Sat, 11 Mar 2017 09:56:31 GMT"}}}

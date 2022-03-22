@@ -1,0 +1,2 @@
+
+b57a603a295a491f8bf3d0001958dd8c0089224b	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/chalk/-/chalk-3.0.0.tgz","integrity":"sha1-P3PCv1JlkfV0zEksUeJFY0n4ROQ=","time":1638861138568,"size":10923,"metadata":{"time":1638861133416,"url":"https://oss.npmmirror.com/chalk/-/chalk-3.0.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 19:52:52 GMT","etag":"\"3A589AA3EF2C93B8A6BAC7ED3952DF9C\"","last-modified":"Sat, 09 Nov 2019 07:00:46 GMT"}}}

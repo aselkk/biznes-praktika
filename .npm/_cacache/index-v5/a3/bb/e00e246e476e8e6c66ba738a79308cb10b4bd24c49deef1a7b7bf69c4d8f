@@ -1,0 +1,2 @@
+
+92c591c5172c8df4186507c52a5ea1d3c81d63a1	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/address/-/address-1.1.2.tgz","integrity":"sha1-vxEWycdYxRt6kz0pa3LCIe2UKLY=","time":1638861138015,"size":4857,"metadata":{"time":1638861133418,"url":"https://oss.npmmirror.com/address/-/address-1.1.2.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:21:51 GMT","etag":"\"2A538A3D7BC8555025AE199CACF997FA\"","last-modified":"Mon, 26 Aug 2019 08:01:08 GMT"}}}

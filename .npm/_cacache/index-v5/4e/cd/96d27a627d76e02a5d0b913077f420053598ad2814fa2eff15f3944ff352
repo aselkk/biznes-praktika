@@ -1,0 +1,2 @@
+
+509e2d072406a90bb381b6c415c4328997d04961	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/lru-cache/-/lru-cache-5.1.1.tgz","integrity":"sha1-HaJ+ZxAnGUdpXa9oSOhH8B2EuSA=","time":1638861126442,"size":5824,"metadata":{"time":1638861121080,"url":"https://oss.npmmirror.com/lru-cache/-/lru-cache-5.1.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:29:27 GMT","etag":"\"23D45C423C7AE2A1BDD6D9F360E048AD\"","last-modified":"Wed, 21 Nov 2018 01:44:56 GMT"}}}

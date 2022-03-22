@@ -1,0 +1,2 @@
+
+2713d2c181597092045ef755771afdfa88a216e6	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/strip-ansi/-/strip-ansi-6.0.1.tgz","integrity":"sha1-nibGPTD1NEPpSJSVshBdN7Z6hdk=","time":1638861120715,"size":2041,"metadata":{"time":1638861118038,"url":"https://oss.npmmirror.com/strip-ansi/-/strip-ansi-6.0.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 19:07:47 GMT","etag":"\"85CBF58500E3B9A7D62E1F7F580C8A45\"","last-modified":"Thu, 23 Sep 2021 18:07:35 GMT"}}}

@@ -1,0 +1,2 @@
+
+18ef6fa03d59f54650089c1ad51902181b4a9a4e	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/asn1.js/-/asn1.js-5.4.1.tgz","integrity":"sha1-EamAuE67kXgc41sP3C7ilON4Pwc=","time":1638861143824,"size":13550,"metadata":{"time":1638861140739,"url":"https://oss.npmmirror.com/asn1.js/-/asn1.js-5.4.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:01:53 GMT","etag":"\"645AC436BC97DAFCEE2C36F43C414FD8\"","last-modified":"Thu, 18 Jun 2020 16:12:35 GMT"}}}

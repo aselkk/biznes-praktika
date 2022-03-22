@@ -1,0 +1,2 @@
+
+48ec70d0b26eb550517e8a88b60f657201a89e1c	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/picomatch/-/picomatch-2.3.0.tgz","integrity":"sha1-8fBh3o9qS/AiiS4tEoI0+5gwKXI=","time":1638861128531,"size":23519,"metadata":{"time":1638861121033,"url":"https://oss.npmmirror.com/picomatch/-/picomatch-2.3.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:03 GMT","etag":"\"21B93BE8448E9E1F9167E305AD1B4C79\"","last-modified":"Sat, 22 May 2021 01:50:17 GMT"}}}

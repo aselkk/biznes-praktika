@@ -1,0 +1,2 @@
+
+590d67fbf75a1aae85fc4974af4a5992a735eea8	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/cross-spawn/-/cross-spawn-3.0.1.tgz","integrity":"sha1-ElYDfsufDF9549bvE14wdwGEuYI=","time":1638861190838,"size":5405,"metadata":{"time":1638861190177,"url":"https://oss.npmmirror.com/cross-spawn/-/cross-spawn-3.0.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 10:46:16 GMT","etag":"\"887FB0172EADB1696A5893C42AFD82D0\"","last-modified":"Wed, 18 May 2016 21:55:12 GMT"}}}

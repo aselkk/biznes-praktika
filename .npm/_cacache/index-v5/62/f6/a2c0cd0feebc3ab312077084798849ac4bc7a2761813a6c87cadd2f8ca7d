@@ -1,0 +1,2 @@
+
+0b594e709a447d1d8265798b988db2407e362ae6	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/emoji-regex/-/emoji-regex-7.0.3.tgz","integrity":"sha1-kzoEBShgyF6DwSJHnEdIqOTHIVY=","time":1638861133361,"size":6001,"metadata":{"time":1638861130329,"url":"https://oss.npmmirror.com/emoji-regex/-/emoji-regex-7.0.3.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:35:24 GMT","etag":"\"061B2AC4610E77A875DFCE8C9AEDD7F6\"","last-modified":"Fri, 21 Dec 2018 10:26:58 GMT"}}}

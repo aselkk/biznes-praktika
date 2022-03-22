@@ -1,0 +1,2 @@
+
+28a4199e5ea0cc4307fa486ab803c754c258ff12	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/uglify-js/-/uglify-js-3.4.10.tgz","integrity":"sha1-mtlWPY6zrN+404WX0q8dgV9qdV8=","time":1638861143624,"size":141647,"metadata":{"time":1638861134450,"url":"https://oss.npmmirror.com/uglify-js/-/uglify-js-3.4.10.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:37:48 GMT","etag":"\"64757B008B834B1E55144270A4C5395F\"","last-modified":"Fri, 15 Mar 2019 18:25:20 GMT"}}}

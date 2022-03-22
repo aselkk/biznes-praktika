@@ -1,0 +1,2 @@
+
+70fa0fa57f9d645e56cb2e27a839f2ef16b7a0ff	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/node-ipc/-/node-ipc-9.2.1.tgz","integrity":"sha1-sy9mEV+dbOhB3E7CAJ1qcz+Yu2s=","time":1638861131477,"size":28328,"metadata":{"time":1638861121040,"url":"https://oss.npmmirror.com/node-ipc/-/node-ipc-9.2.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:17:08 GMT","etag":"\"9EEE7A3D37997A1FFC94E0AB5B91843C\"","last-modified":"Fri, 02 Jul 2021 21:50:08 GMT"}}}

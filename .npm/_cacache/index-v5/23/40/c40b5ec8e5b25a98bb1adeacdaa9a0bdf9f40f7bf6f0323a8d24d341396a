@@ -1,0 +1,2 @@
+
+cd05476e39ef079053779a0788d2120f6796b41c	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/graceful-fs/-/graceful-fs-4.2.8.tgz","integrity":"sha1-5BK40z9eAGWTy9PO5t+fLOu+gCo=","time":1638861119942,"size":9583,"metadata":{"time":1638861116373,"url":"https://oss.npmmirror.com/graceful-fs/-/graceful-fs-4.2.8.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:29:24 GMT","etag":"\"4DFB16244F19C3D1F75E118D0F9E0CD4\"","last-modified":"Thu, 05 Aug 2021 20:06:17 GMT"}}}

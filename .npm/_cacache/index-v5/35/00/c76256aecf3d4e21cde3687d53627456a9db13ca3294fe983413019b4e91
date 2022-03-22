@@ -1,0 +1,2 @@
+
+4bca7c17a92524c60b16dc822380a1a9d22784b6	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/ipaddr.js/-/ipaddr.js-1.9.1.tgz","integrity":"sha1-v/OFQ+64mEglB5/zoqjmy9RngbM=","time":1638861115341,"size":11501,"metadata":{"time":1638861113622,"url":"https://oss.npmmirror.com/ipaddr.js/-/ipaddr.js-1.9.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:05 GMT","etag":"\"A9B9343A20968262E37F1C2BE69671E0\"","last-modified":"Wed, 17 Jul 2019 02:28:31 GMT"}}}

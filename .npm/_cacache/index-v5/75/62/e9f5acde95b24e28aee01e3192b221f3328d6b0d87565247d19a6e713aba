@@ -1,0 +1,2 @@
+
+6cb41102f4cbeab5a2b9bd3f6cc5c291a28cc7fe	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/gauge/-/gauge-2.7.4.tgz","integrity":"sha1-LANAXHU4w51+s3sxcCLjJfsBi/c=","time":1638861190906,"size":16014,"metadata":{"time":1638861190061,"url":"https://oss.npmmirror.com/gauge/-/gauge-2.7.4.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 08:15:20 GMT","etag":"\"110902FBDEAB4D0BD72B259040A04119\"","last-modified":"Fri, 21 Apr 2017 23:06:23 GMT"}}}

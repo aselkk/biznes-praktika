@@ -1,0 +1,2 @@
+
+d37b6d30120f5415eb456293ba5a93eef5bb22cd	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/mkdirp/-/mkdirp-0.5.5.tgz","integrity":"sha1-2Rzv1i0UNsoPQWIOJRKI1CAJne8=","time":1638861118106,"size":3018,"metadata":{"time":1638861116434,"url":"https://oss.npmmirror.com/mkdirp/-/mkdirp-0.5.5.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:14 GMT","etag":"\"7E445B65CC532AE036E685117D5FE44D\"","last-modified":"Fri, 03 Apr 2020 17:12:42 GMT"}}}

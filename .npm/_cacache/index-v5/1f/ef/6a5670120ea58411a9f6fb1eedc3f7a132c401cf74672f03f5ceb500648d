@@ -1,0 +1,2 @@
+
+20c37338900263c30cb19627d83f1cb0f504c344	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/url-parse/-/url-parse-1.5.3.tgz","integrity":"sha1-ccEwPTj7Zjmt4YPCmSyMwGht+GI=","time":1638861115760,"size":16037,"metadata":{"time":1638861113078,"url":"https://oss.npmmirror.com/url-parse/-/url-parse-1.5.3.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:12:07 GMT","etag":"\"1B216D25A8DB039C4B7259BE6FF6F822\"","last-modified":"Sun, 25 Jul 2021 22:17:54 GMT"}}}

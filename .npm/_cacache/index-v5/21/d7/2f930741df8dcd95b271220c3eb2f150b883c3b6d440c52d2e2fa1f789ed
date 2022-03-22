@@ -1,0 +1,2 @@
+
+672612035462f1081fac6e68494c22cb1340a8bc	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/minimatch/-/minimatch-3.0.4.tgz","integrity":"sha1-UWbihkV/AzBgZL5Ul+jbsMPTIIM=","time":1638861136104,"size":11423,"metadata":{"time":1638861131452,"url":"https://oss.npmmirror.com/minimatch/-/minimatch-3.0.4.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:18:06 GMT","etag":"\"6A2C6F3FFED6ED50FAAFF89EF8EAB0A0\"","last-modified":"Sun, 07 May 2017 18:11:14 GMT"}}}

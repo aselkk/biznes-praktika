@@ -1,0 +1,2 @@
+
+22eb5b323cf508317f96b7856c498d84c684eac5	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/amdefine/-/amdefine-1.0.1.tgz","integrity":"sha1-SlKCrBZHKek2Gbz9OtFR+BfOkfU=","time":1638861189341,"size":7487,"metadata":{"time":1638861188986,"url":"https://oss.npmmirror.com/amdefine/-/amdefine-1.0.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 10:18:45 GMT","etag":"\"B09958BE1AA145A9F777F847591A0999\"","last-modified":"Wed, 02 Nov 2016 05:00:54 GMT"}}}

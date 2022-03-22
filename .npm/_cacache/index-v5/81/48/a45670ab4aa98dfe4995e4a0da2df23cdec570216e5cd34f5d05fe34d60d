@@ -1,0 +1,2 @@
+
+ab51f07276b9c7d4885c98182f421c8fcfef0201	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/shell-quote/-/shell-quote-1.7.3.tgz","integrity":"sha1-qkDtrBcERbmkMeF7tiwLiBucQSM=","time":1638861122575,"size":7188,"metadata":{"time":1638861115300,"url":"https://oss.npmmirror.com/shell-quote/-/shell-quote-1.7.3.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:16:59 GMT","etag":"\"273F97FCBB0CF19C17E239EE0B35C4C0\"","last-modified":"Thu, 21 Oct 2021 06:36:57 GMT"}}}

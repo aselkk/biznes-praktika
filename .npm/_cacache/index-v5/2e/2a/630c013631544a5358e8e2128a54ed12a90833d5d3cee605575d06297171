@@ -1,0 +1,2 @@
+
+7672066026a92cbf83d123211058bde900b0403c	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/ssri/-/ssri-8.0.1.tgz","integrity":"sha1-Y45OQ54v+9LNKJd21cpFfE9Roq8=","time":1638861125655,"size":14091,"metadata":{"time":1638861121052,"url":"https://oss.npmmirror.com/ssri/-/ssri-8.0.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:15:30 GMT","etag":"\"0B05DC463DB88E04D54A39425E6E33AB\"","last-modified":"Wed, 27 Jan 2021 19:34:58 GMT"}}}

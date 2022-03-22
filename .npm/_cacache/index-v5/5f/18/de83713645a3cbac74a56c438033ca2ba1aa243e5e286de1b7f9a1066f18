@@ -1,0 +1,2 @@
+
+84c448c0f4b704a2a05e673c3831dba3e74aacfa	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/eslint/-/eslint-6.8.0.tgz","integrity":"sha1-YiYtZylzn5J1cjgkMC+yJ8jJP/s=","time":1638861192320,"size":594358,"metadata":{"time":1638861190234,"url":"https://oss.npmmirror.com/eslint/-/eslint-6.8.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 07:34:25 GMT","etag":"\"C9AA2DC858DDB496F012020292B28495\"","last-modified":"Fri, 20 Dec 2019 21:04:55 GMT"}}}

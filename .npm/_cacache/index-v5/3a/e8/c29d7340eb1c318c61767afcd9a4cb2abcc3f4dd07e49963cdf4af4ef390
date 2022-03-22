@@ -1,0 +1,2 @@
+
+20fddf2208d17bfe68183b032826176586893d66	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/timsort/-/timsort-0.3.0.tgz","integrity":"sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q=","time":1638861137392,"size":13271,"metadata":{"time":1638861130446,"url":"https://oss.npmmirror.com/timsort/-/timsort-0.3.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:10:36 GMT","etag":"\"66DB61C59B34D414DBACAEBCE084DF0B\"","last-modified":"Sun, 24 Jul 2016 19:41:35 GMT"}}}

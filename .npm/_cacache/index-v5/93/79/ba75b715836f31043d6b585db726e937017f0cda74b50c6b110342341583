@@ -1,0 +1,2 @@
+
+4dfeda8da57b9be1d8fbf80c5da76360eab49c34	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/find-up/-/find-up-4.1.0.tgz","integrity":"sha1-l6/n1s3AvFkoWEt8jXsW6KmqXRk=","time":1638861117146,"size":3745,"metadata":{"time":1638861115066,"url":"https://oss.npmmirror.com/find-up/-/find-up-4.1.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:33:51 GMT","etag":"\"AA0B377135F4AF38D106DB8B84606924\"","last-modified":"Mon, 17 Jun 2019 06:20:50 GMT"}}}

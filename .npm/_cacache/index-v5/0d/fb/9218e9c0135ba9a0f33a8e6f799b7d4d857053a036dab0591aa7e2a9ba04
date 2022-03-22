@@ -1,0 +1,2 @@
+
+11d5e77e4149b3c5eea71187a418c9f85d3170cf	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/cosmiconfig/-/cosmiconfig-5.2.1.tgz","integrity":"sha1-BA9yaAnFked6F8CjYmykW08Wixo=","time":1638861126897,"size":13568,"metadata":{"time":1638861120390,"url":"https://oss.npmmirror.com/cosmiconfig/-/cosmiconfig-5.2.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:34:44 GMT","etag":"\"28D9BCE89E0E929501B2E8C1815918F9\"","last-modified":"Wed, 15 May 2019 01:12:58 GMT"}}}

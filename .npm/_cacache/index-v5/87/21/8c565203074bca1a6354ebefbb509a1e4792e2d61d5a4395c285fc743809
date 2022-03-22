@@ -1,0 +1,2 @@
+
+808dcfa2eb5fd4dfb197dbbacbebb09e11b0f41a	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/yallist/-/yallist-4.0.0.tgz","integrity":"sha1-m7knkNnA7/7GO+c1GeEaNQGaOnI=","time":1638861129811,"size":4494,"metadata":{"time":1638861124865,"url":"https://oss.npmmirror.com/yallist/-/yallist-4.0.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:57:24 GMT","etag":"\"C5B22EEC3CD51B2D9E6500976965F815\"","last-modified":"Mon, 30 Sep 2019 20:08:19 GMT"}}}

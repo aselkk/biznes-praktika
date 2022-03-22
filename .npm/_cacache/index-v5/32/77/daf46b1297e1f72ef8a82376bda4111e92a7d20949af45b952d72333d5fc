@@ -1,0 +1,2 @@
+
+9bf9e82c5edd84b8c29bab5d6e94d5b44d1140e1	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/micromatch/-/micromatch-3.1.10.tgz","integrity":"sha1-cIWbyVyYQJUvNZoGij/En57PrCM=","time":1638861126895,"size":19260,"metadata":{"time":1638861119713,"url":"https://oss.npmmirror.com/micromatch/-/micromatch-3.1.10.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:17:29 GMT","etag":"\"CBD070DA8FD1F67270CB23F613BD7F2C\"","last-modified":"Thu, 22 Mar 2018 19:44:59 GMT"}}}

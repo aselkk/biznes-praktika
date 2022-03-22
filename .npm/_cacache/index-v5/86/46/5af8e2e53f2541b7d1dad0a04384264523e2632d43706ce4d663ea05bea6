@@ -1,0 +1,2 @@
+
+50350074de3b092a91c00c36793c1975445e047d	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/acorn-walk/-/acorn-walk-7.2.0.tgz","integrity":"sha1-DeiJpgEgOQmw++B7iTjcIdLpZ7w=","time":1638861129789,"size":14853,"metadata":{"time":1638861122489,"url":"https://oss.npmmirror.com/acorn-walk/-/acorn-walk-7.2.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:35:19 GMT","etag":"\"54E3CCE65AD6F377E35B2281FECAA9BE\"","last-modified":"Wed, 17 Jun 2020 06:25:58 GMT"}}}

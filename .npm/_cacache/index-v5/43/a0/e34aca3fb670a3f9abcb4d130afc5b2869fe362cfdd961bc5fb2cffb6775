@@ -1,0 +1,2 @@
+
+94263d6b0433a6d252b4005e96b4cdfaf42c8967	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/worker-farm/-/worker-farm-1.7.0.tgz","integrity":"sha1-JqlMU5G7ypJhUgAvabhKS/dy5ag=","time":1638861131753,"size":14216,"metadata":{"time":1638861118873,"url":"https://oss.npmmirror.com/worker-farm/-/worker-farm-1.7.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:27:01 GMT","etag":"\"6786657C110EBFA4E41B145B39A9E808\"","last-modified":"Fri, 03 May 2019 13:22:20 GMT"}}}

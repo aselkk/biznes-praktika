@@ -1,0 +1,2 @@
+
+54583fa457fb74dfe036cd6d6bbe081e5f8eedd4	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/pumpify/-/pumpify-1.5.1.tgz","integrity":"sha1-NlE74karJ1cLGjdKXOJ4v9dDcM4=","time":1638861142254,"size":3478,"metadata":{"time":1638861140866,"url":"https://oss.npmmirror.com/pumpify/-/pumpify-1.5.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:02 GMT","etag":"\"F814D0D058B1F44525E933472EBF107B\"","last-modified":"Wed, 16 May 2018 14:20:51 GMT"}}}

@@ -1,0 +1,2 @@
+
+31b3463e129d4ce05bfa052580d8db7fa2a82fe2	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/emojis-list/-/emojis-list-3.0.0.tgz","integrity":"sha1-VXBmIEatKeLpFucariYKvf9Pang=","time":1638861130758,"size":12343,"metadata":{"time":1638861127511,"url":"https://oss.npmmirror.com/emojis-list/-/emojis-list-3.0.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:27:11 GMT","etag":"\"BC4F1C91B1304AFDFCA4E1D82AA1D526\"","last-modified":"Sun, 14 Jul 2019 07:13:25 GMT"}}}

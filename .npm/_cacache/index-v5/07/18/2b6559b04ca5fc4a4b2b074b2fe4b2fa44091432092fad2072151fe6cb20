@@ -1,0 +1,2 @@
+
+a6955d86c904d374293c2c7d331f2d9628fdbd41	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/rimraf/-/rimraf-2.7.1.tgz","integrity":"sha1-NXl/E6f9rcVmFCwp1PB8ytSD4+w=","time":1638861135887,"size":5662,"metadata":{"time":1638861131095,"url":"https://oss.npmmirror.com/rimraf/-/rimraf-2.7.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:02 GMT","etag":"\"007934924FABF5DBB3B872C3896FB178\"","last-modified":"Wed, 14 Aug 2019 16:53:45 GMT"}}}

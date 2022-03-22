@@ -1,0 +1,2 @@
+
+d96da44ef9de78bc506c8757dadca301448f4784	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/progress/-/progress-2.0.3.tgz","integrity":"sha1-foz42PW48jnBvGi+tOt4Vn1XLvg=","time":1638861190362,"size":6000,"metadata":{"time":1638861189540,"url":"https://oss.npmmirror.com/progress/-/progress-2.0.3.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:59:41 GMT","etag":"\"D6DB22BBF628B388829469A0BF0C21A5\"","last-modified":"Wed, 05 Dec 2018 16:58:10 GMT"}}}

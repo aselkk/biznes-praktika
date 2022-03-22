@@ -1,0 +1,2 @@
+
+352dc68eb3419bc35cae1f42204962fb3344773a	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/cookie/-/cookie-0.4.0.tgz","integrity":"sha1-vrQ35wIrO21JAZ0IhmUwPr6cFLo=","time":1638861115670,"size":6407,"metadata":{"time":1638861113302,"url":"https://oss.npmmirror.com/cookie/-/cookie-0.4.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:20 GMT","etag":"\"6FCFA6F54A5DD7786E758A5885E58BEF\"","last-modified":"Thu, 16 May 2019 03:26:18 GMT"}}}

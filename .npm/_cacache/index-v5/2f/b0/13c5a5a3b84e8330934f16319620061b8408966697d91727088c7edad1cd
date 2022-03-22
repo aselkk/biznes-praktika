@@ -1,0 +1,2 @@
+
+00e881b510ab095463b9e6885cd548770310a5ad	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/gensync/-/gensync-1.0.0-beta.2.tgz","integrity":"sha1-MqbudsPX9S1GsrGuXZP+qFgKJeA=","time":1638861139431,"size":7442,"metadata":{"time":1638861135002,"url":"https://oss.npmmirror.com/gensync/-/gensync-1.0.0-beta.2.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:39:49 GMT","etag":"\"3D1E68BDACB4E8046CCABFF0019E916B\"","last-modified":"Tue, 27 Oct 2020 20:43:53 GMT"}}}

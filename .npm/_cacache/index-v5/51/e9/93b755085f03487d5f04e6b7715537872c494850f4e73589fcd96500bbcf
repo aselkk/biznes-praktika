@@ -1,0 +1,2 @@
+
+ec1797d5e44c2716ec61b509bb8922cde15f46f1	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/vue-loader/-/vue-loader-15.9.8.tgz","integrity":"sha1-Sw9gKvr2aplr4eU0+5YJ3EqxDmE=","time":1638861141588,"size":19672,"metadata":{"time":1638861135162,"url":"https://oss.npmmirror.com/vue-loader/-/vue-loader-15.9.8.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:17:03 GMT","etag":"\"00CD8E71E54AE66E066227D6BBAF25AC\"","last-modified":"Mon, 02 Aug 2021 15:59:39 GMT"}}}

@@ -1,0 +1,2 @@
+
+d9297a784152f5dbe58aa90bb59fdd0c4ce0bab3	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/escalade/-/escalade-3.1.1.tgz","integrity":"sha1-2M/ccACWXFoBdLSoLqpcBVJ0LkA=","time":1638861123490,"size":4312,"metadata":{"time":1638861120754,"url":"https://oss.npmmirror.com/escalade/-/escalade-3.1.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:35:00 GMT","etag":"\"61FEAAD8CA2AE37EFF46AA4818A7B045\"","last-modified":"Tue, 13 Oct 2020 06:03:52 GMT"}}}

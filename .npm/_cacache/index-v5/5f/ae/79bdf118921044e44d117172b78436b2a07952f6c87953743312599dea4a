@@ -1,0 +1,2 @@
+
+6b57e7bb1adc508672fbd5b28d354550ec2cd23e	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/pump/-/pump-2.0.1.tgz","integrity":"sha1-Ejma3W5M91Jtlzy8i1zi4pCLOQk=","time":1638861139445,"size":3136,"metadata":{"time":1638861137331,"url":"https://oss.npmmirror.com/pump/-/pump-2.0.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:27:09 GMT","etag":"\"66CC30F52092ADFA3D1C98543F181737\"","last-modified":"Mon, 22 Jan 2018 16:22:38 GMT"}}}

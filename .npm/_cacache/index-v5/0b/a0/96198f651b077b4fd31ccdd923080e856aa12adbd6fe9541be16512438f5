@@ -1,0 +1,2 @@
+
+222ebaa674c044e0f5821d809197d9851544f941	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/regjsparser/-/regjsparser-0.7.0.tgz","integrity":"sha1-prZntUyIXhi1JVTLSWDvcRh+mWg=","time":1638861135086,"size":16927,"metadata":{"time":1638861128831,"url":"https://oss.npmmirror.com/regjsparser/-/regjsparser-0.7.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:01:55 GMT","etag":"\"11A1B3A432AA5D0317BBED958A381207\"","last-modified":"Mon, 06 Sep 2021 16:46:15 GMT"}}}

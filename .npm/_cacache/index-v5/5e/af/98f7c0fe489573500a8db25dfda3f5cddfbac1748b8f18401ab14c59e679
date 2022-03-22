@@ -1,0 +1,2 @@
+
+b4bdc6375e2515e03146a3250cfa9204d10aae90	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/dir-glob/-/dir-glob-2.2.2.tgz","integrity":"sha1-+gnwaUFTyJGLGLoN6vrpR2n8UMQ=","time":1638861133517,"size":2263,"metadata":{"time":1638861129001,"url":"https://oss.npmmirror.com/dir-glob/-/dir-glob-2.2.2.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:35:27 GMT","etag":"\"F76E7BF2144E2CC5F6EA9A27D664F962\"","last-modified":"Sun, 20 Jan 2019 17:59:09 GMT"}}}

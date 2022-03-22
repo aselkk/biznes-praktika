@@ -1,0 +1,2 @@
+
+0283a1f7126e426f15d7d58b9a0f90dc90fe0eca	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/internal-ip/-/internal-ip-4.3.0.tgz","integrity":"sha1-hFRSuq2dLKO2nGNaE3rLmg2tCQc=","time":1638861137314,"size":2364,"metadata":{"time":1638861133574,"url":"https://oss.npmmirror.com/internal-ip/-/internal-ip-4.3.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:35:17 GMT","etag":"\"C86813B5E6C893D8546168CF55A9F4A9\"","last-modified":"Fri, 05 Apr 2019 06:58:17 GMT"}}}

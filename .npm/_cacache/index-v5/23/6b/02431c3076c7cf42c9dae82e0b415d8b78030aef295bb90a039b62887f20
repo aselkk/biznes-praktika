@@ -1,0 +1,2 @@
+
+1928e7a190b3d76daf0897225868362f6b52c235	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/picocolors/-/picocolors-1.0.0.tgz","integrity":"sha1-y1vcdP8/UYkiNur3nWi8RFZKuBw=","time":1638861136724,"size":2411,"metadata":{"time":1638861133567,"url":"https://oss.npmmirror.com/picocolors/-/picocolors-1.0.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:16:15 GMT","etag":"\"743F01BF24BB6492555959FDEB7E9918\"","last-modified":"Wed, 13 Oct 2021 02:48:53 GMT"}}}

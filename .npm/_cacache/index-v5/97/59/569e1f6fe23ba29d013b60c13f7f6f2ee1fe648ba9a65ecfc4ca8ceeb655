@@ -1,0 +1,2 @@
+
+2f660a1066e8cd25039ebc2c158e9e8b4224df27	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/chownr/-/chownr-1.1.4.tgz","integrity":"sha1-b8nXtC0ypYNZYzdmbn0ICE2izGs=","time":1638861135478,"size":2226,"metadata":{"time":1638861131455,"url":"https://oss.npmmirror.com/chownr/-/chownr-1.1.4.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:27:11 GMT","etag":"\"C923F07744C2F7A5EDA68922433123A4\"","last-modified":"Wed, 12 Feb 2020 02:31:05 GMT"}}}

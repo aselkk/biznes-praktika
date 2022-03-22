@@ -1,0 +1,2 @@
+
+ab990ba335d8133c212525d4642c4071a65c4edf	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/semver/-/semver-6.3.0.tgz","integrity":"sha1-7gpkyK9ejO6mdoexM3YeG+y9HT0=","time":1638861129461,"size":18921,"metadata":{"time":1638861123245,"url":"https://oss.npmmirror.com/semver/-/semver-6.3.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:29:27 GMT","etag":"\"E0836FAADF4B192C3987C5117D62FFF6\"","last-modified":"Tue, 23 Jul 2019 19:25:39 GMT"}}}

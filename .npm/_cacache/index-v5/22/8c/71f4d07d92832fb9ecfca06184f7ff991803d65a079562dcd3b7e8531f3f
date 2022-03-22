@@ -1,0 +1,2 @@
+
+2634af727e4c118144d05dbfa50d86faa27f27f8	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/word-wrap/-/word-wrap-1.2.3.tgz","integrity":"sha1-YQY29rH3A4kb00dxzLF/uTtHB5w=","time":1638861189602,"size":4094,"metadata":{"time":1638861189070,"url":"https://oss.npmmirror.com/word-wrap/-/word-wrap-1.2.3.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:02:36 GMT","etag":"\"48773DBE44CA6AAE3BC6B49E7CECDDFE\"","last-modified":"Sat, 03 Jun 2017 02:56:10 GMT"}}}

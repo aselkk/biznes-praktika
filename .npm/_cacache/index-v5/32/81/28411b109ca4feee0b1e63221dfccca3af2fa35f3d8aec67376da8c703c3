@@ -1,0 +1,2 @@
+
+8ad7df48ac7d96079c5c259b7928e94e94f2fe01	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/ansi-regex/-/ansi-regex-5.0.1.tgz","integrity":"sha1-CCyyyJyf6GWaMRpTvWpNxTAdswQ=","time":1638861119025,"size":2768,"metadata":{"time":1638861116309,"url":"https://oss.npmmirror.com/ansi-regex/-/ansi-regex-5.0.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:21:51 GMT","etag":"\"7A0BB891F3A7CD9B174AF62BEB4DE186\"","last-modified":"Tue, 14 Sep 2021 15:55:32 GMT"}}}

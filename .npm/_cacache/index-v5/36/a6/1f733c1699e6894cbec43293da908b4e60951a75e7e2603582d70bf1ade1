@@ -1,0 +1,2 @@
+
+37ff90c95b9d508d087dfd7f811ee0b07339f7a0	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/sshpk/-/sshpk-1.16.1.tgz","integrity":"sha1-+2YcC+8ps520B2nuOfpwCT1vaHc=","time":1638861138865,"size":53630,"metadata":{"time":1638861120770,"url":"https://oss.npmmirror.com/sshpk/-/sshpk-1.16.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:02 GMT","etag":"\"37CA447C8240CB57A9A7CF01E54C2F43\"","last-modified":"Wed, 23 Jan 2019 21:34:36 GMT"}}}

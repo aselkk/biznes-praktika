@@ -1,0 +1,2 @@
+
+c244075f0f1cafc8be35b9c6dea1d3e0a88d8c64	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/extglob/-/extglob-2.0.4.tgz","integrity":"sha1-rQD+TcYSqSMuhxhxHcXLWrAoVUM=","time":1638861143092,"size":10322,"metadata":{"time":1638861140863,"url":"https://oss.npmmirror.com/extglob/-/extglob-2.0.4.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:08 GMT","etag":"\"5E368678EBF35FE8DBAA173517E7ADC1\"","last-modified":"Fri, 12 Jan 2018 22:11:32 GMT"}}}

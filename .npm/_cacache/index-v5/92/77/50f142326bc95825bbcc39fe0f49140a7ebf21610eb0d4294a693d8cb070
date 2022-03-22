@@ -1,0 +1,2 @@
+
+9b8b08bbe746888472819cf8d018e1fc39398f66	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/ieee754/-/ieee754-1.2.1.tgz","integrity":"sha1-jrehCmP/8l0VpXsAFYbRd9Gw01I=","time":1638861118925,"size":2886,"metadata":{"time":1638861116960,"url":"https://oss.npmmirror.com/ieee754/-/ieee754-1.2.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:06 GMT","etag":"\"B8EE26CD9B7C7B20EA3F629B2CD8FDB5\"","last-modified":"Tue, 27 Oct 2020 23:06:22 GMT"}}}

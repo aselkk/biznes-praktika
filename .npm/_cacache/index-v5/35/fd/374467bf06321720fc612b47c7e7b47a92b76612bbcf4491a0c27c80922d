@@ -1,0 +1,2 @@
+
+668f1052071c0308b1508b4ccbb27fb419b860fb	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/gaze/-/gaze-1.1.3.tgz","integrity":"sha1-xEFzPhO5J6yMD/C0w7Az8ogSkko=","time":1638861189990,"size":8871,"metadata":{"time":1638861189168,"url":"https://oss.npmmirror.com/gaze/-/gaze-1.1.3.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Tue, 07 Dec 2021 05:41:04 GMT","etag":"\"F769F46247ED44E91D0005D9CD2259EB\"","last-modified":"Mon, 21 May 2018 19:13:32 GMT"}}}

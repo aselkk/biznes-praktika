@@ -1,0 +1,2 @@
+
+3c8d82b0397a1c62c7704689bfc69052b8b6874c	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/mdn-data/-/mdn-data-2.0.4.tgz","integrity":"sha1-aZs8OKxvHXKAkaZGULZdOIUC/Vs=","time":1638861126403,"size":77878,"metadata":{"time":1638861114030,"url":"https://oss.npmmirror.com/mdn-data/-/mdn-data-2.0.4.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:05 GMT","etag":"\"409B0DB8E082C546F07B623B7111856E\"","last-modified":"Tue, 09 Jul 2019 11:44:28 GMT"}}}

@@ -1,0 +1,2 @@
+
+a03afded2a21e6d9508e698e0ddab883f42ebd20	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/pako/-/pako-1.0.11.tgz","integrity":"sha1-bJWZ00DVTf05RjgCUqNXBaa5kr8=","time":1638861134114,"size":204482,"metadata":{"time":1638861114179,"url":"https://oss.npmmirror.com/pako/-/pako-1.0.11.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:04 GMT","etag":"\"C9414F3AE97E08E5C0C74212BCF914E9\"","last-modified":"Wed, 29 Jan 2020 07:46:24 GMT"}}}

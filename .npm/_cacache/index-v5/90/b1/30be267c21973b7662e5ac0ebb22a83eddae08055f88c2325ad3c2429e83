@@ -1,0 +1,2 @@
+
+720fee2f11edf003624a4bb039a8b2acc8f7c8df	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/killable/-/killable-1.0.1.tgz","integrity":"sha1-TIzkQRh6Bhx0dPuHygjipjgZSJI=","time":1638861116904,"size":1656,"metadata":{"time":1638861114787,"url":"https://oss.npmmirror.com/killable/-/killable-1.0.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:05 GMT","etag":"\"CF4FC84D9B0CE27A2349BB115BEB28F0\"","last-modified":"Fri, 07 Sep 2018 13:24:15 GMT"}}}

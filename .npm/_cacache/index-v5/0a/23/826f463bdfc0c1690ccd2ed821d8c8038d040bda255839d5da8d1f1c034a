@@ -1,0 +1,2 @@
+
+7b00542507513bcee0ee0e42926d1f1c13fb0c52	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/stackframe/-/stackframe-1.2.0.tgz","integrity":"sha1-UkKUktY8YuuYmATBFVLj0i53kwM=","time":1638861133293,"size":8804,"metadata":{"time":1638861130086,"url":"https://oss.npmmirror.com/stackframe/-/stackframe-1.2.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:35:10 GMT","etag":"\"C0FEBE4FE8BA13784271D94EF28F931B\"","last-modified":"Sat, 30 May 2020 15:54:27 GMT"}}}

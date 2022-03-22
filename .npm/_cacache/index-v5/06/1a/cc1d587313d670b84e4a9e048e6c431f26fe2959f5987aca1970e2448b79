@@ -1,0 +1,2 @@
+
+60a513d29726bfa54c42b714e5dbfc6938985b7d	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/create-hmac/-/create-hmac-1.1.7.tgz","integrity":"sha1-aRcMeLOrlXFHsriwRXLkfq0iQ/8=","time":1638861119953,"size":2429,"metadata":{"time":1638861117825,"url":"https://oss.npmmirror.com/create-hmac/-/create-hmac-1.1.7.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:10 GMT","etag":"\"B22CA1DF121B72EC1264D9CEDE4FCBA0\"","last-modified":"Wed, 11 Apr 2018 12:31:29 GMT"}}}

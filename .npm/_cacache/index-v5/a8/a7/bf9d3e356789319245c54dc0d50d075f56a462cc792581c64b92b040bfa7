@@ -1,0 +1,2 @@
+
+1152ac61327dfe5052e30654bda0bd6bcd078faa	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/des.js/-/des.js-1.0.1.tgz","integrity":"sha1-U4IULhvcU/hdhtU+X0qn3rkeCEM=","time":1638861118926,"size":9929,"metadata":{"time":1638861116970,"url":"https://oss.npmmirror.com/des.js/-/des.js-1.0.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:01:54 GMT","etag":"\"8CCC891573D654C596F1318128B0E418\"","last-modified":"Tue, 12 Nov 2019 18:14:41 GMT"}}}

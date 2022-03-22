@@ -1,0 +1,2 @@
+
+29254dcbd8f828ac5563239e82d0797161e6e03b	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/memory-fs/-/memory-fs-0.4.1.tgz","integrity":"sha1-OpoguEYlI+RHz7x+i7gO1me/xVI=","time":1638861122617,"size":3423,"metadata":{"time":1638861118024,"url":"https://oss.npmmirror.com/memory-fs/-/memory-fs-0.4.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:17:05 GMT","etag":"\"D4AEC06CB0CE0261C5A640DDA3C4BD6D\"","last-modified":"Wed, 07 Dec 2016 13:31:26 GMT"}}}

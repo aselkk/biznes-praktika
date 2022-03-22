@@ -1,0 +1,2 @@
+
+0209f9681ed7741df7e5454730c749b3f22aae67	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/bonjour/-/bonjour-3.5.0.tgz","integrity":"sha1-jokKGD2O6aI5OzhExpGkK897yfU=","time":1638861143014,"size":9424,"metadata":{"time":1638861140660,"url":"https://oss.npmmirror.com/bonjour/-/bonjour-3.5.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:16:02 GMT","etag":"\"B196752395A60F1B869DDF16942C5B7B\"","last-modified":"Sat, 07 May 2016 10:52:03 GMT"}}}

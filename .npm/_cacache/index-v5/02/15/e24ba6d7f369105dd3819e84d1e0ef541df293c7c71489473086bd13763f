@@ -1,0 +1,2 @@
+
+6ceb03a99c57caea1bd037676e557896d5842020	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/aws4/-/aws4-1.11.0.tgz","integrity":"sha1-1h9G2DslGSUOJ4Ta9bCUeai0HFk=","time":1638861126744,"size":7934,"metadata":{"time":1638861121552,"url":"https://oss.npmmirror.com/aws4/-/aws4-1.11.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:27:12 GMT","etag":"\"3D5814F8881B536B2C741A419AE703F6\"","last-modified":"Sat, 31 Oct 2020 00:09:29 GMT"}}}

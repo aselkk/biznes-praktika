@@ -1,0 +1,2 @@
+
+ef8179eeef3a2ef8ca7e22bb9e1a11203276e04a	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/sax/-/sax-1.2.4.tgz","integrity":"sha1-KBYjTiN4vdxOU1T6tcqold9xANk=","time":1638861120690,"size":15162,"metadata":{"time":1638861116122,"url":"https://oss.npmmirror.com/sax/-/sax-1.2.4.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:02 GMT","etag":"\"7ECFFD3E929014AF7D5913F54D262738\"","last-modified":"Thu, 22 Jun 2017 17:46:42 GMT"}}}

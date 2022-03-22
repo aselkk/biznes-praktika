@@ -1,0 +1,2 @@
+
+89bb94fac8d6f402fcac5253053cec3ff63eef3c	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/ansi-colors/-/ansi-colors-3.2.4.tgz","integrity":"sha1-46PaS/uubIapwoViXeEkojQCb78=","time":1638861116504,"size":7267,"metadata":{"time":1638861113908,"url":"https://oss.npmmirror.com/ansi-colors/-/ansi-colors-3.2.4.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:30:13 GMT","etag":"\"247C9C463BF2697A2FB39D327C7F412A\"","last-modified":"Sun, 03 Mar 2019 05:39:32 GMT"}}}

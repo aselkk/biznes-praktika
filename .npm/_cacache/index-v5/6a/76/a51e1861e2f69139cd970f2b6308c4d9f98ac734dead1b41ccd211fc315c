@@ -1,0 +1,2 @@
+
+e79bdd437f6081d7a9e6885e0a4f535346edb208	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/bluebird/-/bluebird-3.7.2.tgz","integrity":"sha1-nyKcFb4nJFT/qXOs4NvueaGww28=","time":1638861143692,"size":139293,"metadata":{"time":1638861131734,"url":"https://oss.npmmirror.com/bluebird/-/bluebird-3.7.2.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:41:07 GMT","etag":"\"BD6FB4BADE8855741485809A7C950D99\"","last-modified":"Thu, 28 Nov 2019 22:55:58 GMT"}}}

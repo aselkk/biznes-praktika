@@ -1,0 +1,2 @@
+
+a709307f1c21083b3cc9cd1ecddc17659a43e943	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/nanomatch/-/nanomatch-1.2.13.tgz","integrity":"sha1-uHqKpPwN6P5r6IiVs4mD/yZb0Rk=","time":1638861134000,"size":20057,"metadata":{"time":1638861126381,"url":"https://oss.npmmirror.com/nanomatch/-/nanomatch-1.2.13.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:35:22 GMT","etag":"\"0B72AAEDBB1190AC84D5D5E3F232D58F\"","last-modified":"Wed, 27 Jun 2018 13:02:59 GMT"}}}

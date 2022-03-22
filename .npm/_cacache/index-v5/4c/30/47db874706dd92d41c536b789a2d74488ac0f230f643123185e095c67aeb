@@ -1,0 +1,2 @@
+
+b0676761be7f8ed6860be9d120551a47d811bb2b	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/aproba/-/aproba-1.2.0.tgz","integrity":"sha1-aALmJk79GMeQobDVF/DyYnvyyUo=","time":1638861129517,"size":3526,"metadata":{"time":1638861125231,"url":"https://oss.npmmirror.com/aproba/-/aproba-1.2.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:01:51 GMT","etag":"\"C1AEE140D00296437E04D2B9285083E1\"","last-modified":"Tue, 19 Sep 2017 22:48:16 GMT"}}}

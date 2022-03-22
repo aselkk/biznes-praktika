@@ -1,0 +1,2 @@
+
+827cb1d16509c041d77db5d2f2f23868f98e6258	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/thenify/-/thenify-3.3.1.tgz","integrity":"sha1-iTLmhqQGYDigFt2eLKRq3Zg4qV8=","time":1638861122434,"size":3072,"metadata":{"time":1638861119718,"url":"https://oss.npmmirror.com/thenify/-/thenify-3.3.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:35:16 GMT","etag":"\"F865B31A93E80F153B3929FDA5FCE4D8\"","last-modified":"Wed, 17 Jun 2020 17:31:07 GMT"}}}

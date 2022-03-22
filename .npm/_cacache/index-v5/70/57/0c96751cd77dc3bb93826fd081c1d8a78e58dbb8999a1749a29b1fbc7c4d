@@ -1,0 +1,2 @@
+
+e99705b14710571ecdf0d5dae54c7d2638800f7e	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/dns-txt/-/dns-txt-2.0.2.tgz","integrity":"sha1-uR2Ab10nGI5Ks+fRB9iBocxGQrY=","time":1638861117208,"size":4161,"metadata":{"time":1638861114373,"url":"https://oss.npmmirror.com/dns-txt/-/dns-txt-2.0.2.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:16:30 GMT","etag":"\"EEB6D418C2E7C605CC3AB9F72D4C0D32\"","last-modified":"Sun, 24 Apr 2016 15:10:49 GMT"}}}

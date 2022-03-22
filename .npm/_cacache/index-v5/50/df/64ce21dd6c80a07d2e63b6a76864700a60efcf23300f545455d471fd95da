@@ -1,0 +1,2 @@
+
+6c2042ed655093e7fb47112a4c0114d30587efb1	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/ts-pnp/-/ts-pnp-1.2.0.tgz","integrity":"sha1-pQCtCEsHmPHDBxrzkeZZEshrypI=","time":1638861116847,"size":2873,"metadata":{"time":1638861115322,"url":"https://oss.npmmirror.com/ts-pnp/-/ts-pnp-1.2.0.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:27:02 GMT","etag":"\"B15E42643B11EDFE8895BB44078820E9\"","last-modified":"Thu, 26 Mar 2020 18:01:04 GMT"}}}

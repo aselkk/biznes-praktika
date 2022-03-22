@@ -1,0 +1,2 @@
+
+cbadae997fedf4fba28366ed617de3de731a3165	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/js-yaml/-/js-yaml-3.14.1.tgz","integrity":"sha1-2ugS/bOCX6MGYJqHFzg8UMNqBTc=","time":1638861142282,"size":76875,"metadata":{"time":1638861130411,"url":"https://oss.npmmirror.com/js-yaml/-/js-yaml-3.14.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:17:51 GMT","etag":"\"2A522C3E23F7999ABD8F852C012C20DD\"","last-modified":"Mon, 07 Dec 2020 19:45:25 GMT"}}}

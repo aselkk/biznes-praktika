@@ -1,0 +1,2 @@
+
+54a68330628b863d11c67170a22c8524037f78ac	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/is-docker/-/is-docker-2.2.1.tgz","integrity":"sha1-M+6r4jz+hvFL3kQIoCwM+4U6zao=","time":1638861121798,"size":1689,"metadata":{"time":1638861118955,"url":"https://oss.npmmirror.com/is-docker/-/is-docker-2.2.1.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 17:18:10 GMT","etag":"\"1860BB1EAB4751C98131766560EB15FC\"","last-modified":"Fri, 09 Apr 2021 08:59:22 GMT"}}}

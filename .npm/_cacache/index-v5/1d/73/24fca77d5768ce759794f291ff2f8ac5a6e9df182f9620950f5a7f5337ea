@@ -1,0 +1,2 @@
+
+71a49e1af34e0ee6f571ea8d3d60bcd0eca07ff9	{"key":"make-fetch-happen:request-cache:https://oss.npmmirror.com/is-regex/-/is-regex-1.1.4.tgz","integrity":"sha1-7vVmPNWfpMCuM5UFMj32hUuxWVg=","time":1638861120128,"size":10555,"metadata":{"time":1638861115733,"url":"https://oss.npmmirror.com/is-regex/-/is-regex-1.1.4.tgz","reqHeaders":{},"resHeaders":{"cache-control":"max-age=0, s-maxage=86400","content-type":"application/octet-stream","date":"Mon, 06 Dec 2021 18:01:54 GMT","etag":"\"13A02D0ABC63FF0093CA592E999F713C\"","last-modified":"Fri, 06 Aug 2021 03:50:28 GMT"}}}
