@@ -1,0 +1,46 @@
+@import 'navbar';
+@import 'fonts';
+
+$base-color: #6CA7EF;
+$button-color: #47CF34;
+
+*{
+    color: #282C37;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1200px;
+}
+
+
+
+li a {
+    list-style: none;
+    text-decoration: none;
+    color: #282C37;
+    cursor: pointer;
+
+    &:hover {
+        font: 14px 'Lato-700';
+        color: #282C37;
+    }
+
+    svg path:hover {
+        fill:#47CF34;
+        transition: 0.2s
+    }
+}
+
+ul{
+    margin: 0 !important;
+    padding: 0;
+}
+
+@media (min-width: 1400px){
+    .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
+        max-width: 1200px !important;
+    }
+}
